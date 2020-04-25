@@ -12,6 +12,7 @@ export default () => (
             </div>
         </div>
         <div className="container mx-auto p-12 max-w-4xl">
+	    <h1>Contacto</h1>
             <Form/>
         </div>
 
