@@ -1,7 +1,7 @@
 import React from "react"
 import ilustracion from "../imgs/1_1.svg"
 import Form from "../components/contactform"
-
+import imagen from "../imgs/ropa.jpg"
 export default () => (
     <header>
         <div className="bg-gray-600">
@@ -13,6 +13,9 @@ export default () => (
         </div>
         <div className="container mx-auto p-12 max-w-4xl">
             <Form/>
+        </div>
+        <div className="container ">
+            <img src ={imagen} alt="ropa"></img>
         </div>
     </header>
 
