@@ -1,6 +1,6 @@
 import React from "react"
 import ilustracion from "../imgs/1_1.svg"
-import Form from "../components/contactform"
+import Form from "./contact.form"
 
 export default () => (
     <header>

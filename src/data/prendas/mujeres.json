@@ -1,0 +1,19 @@
+{
+    "slug": "mujeres",
+    "title": "Prendas para Mujer",
+    "description": "Coleccion para mujeres 2020",
+    "items":[
+        {
+            "nombreprenda": "blusa",
+            "tallas": "XS, S, L",
+            "precio": "52.000"
+        },
+        {
+            "nombreprenda": "tangas",
+            "tallas": "32, 34",
+            "precio": "2000"
+        }
+    ]
+
+
+}
